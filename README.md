@@ -41,7 +41,7 @@ A simple Tkinter-based Python GUI to simulate barcode scanning. This tool allows
 1. **Run the application**:
 
     ```bash
-    python barcode_scanner_emulator.py
+    python emulator.py
     ```
 
 2. **Using the GUI**:
